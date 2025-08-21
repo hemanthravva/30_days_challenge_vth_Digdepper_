@@ -56,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0387-first-unique-character-in-a-string) |
+## Database
+|  |
+| ------- |
+| [1258-article-views-i](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/1258-article-views-i) |
 <!---LeetCode Topics End-->
