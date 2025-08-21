@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0001-two-sum) |
+| [2058-concatenation-of-array](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/2058-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -15,4 +16,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2383-add-two-integers](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/2383-add-two-integers) |
+## Simulation
+|  |
+| ------- |
+| [2058-concatenation-of-array](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
