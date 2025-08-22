@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0387-first-unique-character-in-a-string) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0268-missing-number) |
 | [2383-add-two-integers](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/2383-add-two-integers) |
 ## Simulation
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0013-roman-to-integer) |
 | [0387-first-unique-character-in-a-string](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0387-first-unique-character-in-a-string) |
 ## Queue
 |  |
