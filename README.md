@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0009-palindrome-number) |
 | [0268-missing-number](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0268-missing-number) |
 | [2383-add-two-integers](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/2383-add-two-integers) |
 ## Simulation
