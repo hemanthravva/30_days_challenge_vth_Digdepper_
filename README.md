@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0013-roman-to-integer) |
+| [0058-length-of-last-word](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0058-length-of-last-word) |
 | [0387-first-unique-character-in-a-string](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0387-first-unique-character-in-a-string) |
 ## Queue
 |  |
