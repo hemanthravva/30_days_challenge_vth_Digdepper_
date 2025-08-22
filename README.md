@@ -64,4 +64,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1258-article-views-i](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/1258-article-views-i) |
+| [1827-invalid-tweets](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/1827-invalid-tweets) |
 <!---LeetCode Topics End-->
