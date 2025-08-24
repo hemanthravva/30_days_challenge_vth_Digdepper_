@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0268-missing-number) |
 ## String
 |  |
@@ -80,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1258-article-views-i](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/1258-article-views-i) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1827-invalid-tweets](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/1827-invalid-tweets) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
