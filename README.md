@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0088-merge-sorted-array) |
+| [0128-longest-consecutive-sequence](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0268-missing-number) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0013-roman-to-integer) |
+| [0128-longest-consecutive-sequence](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0128-longest-consecutive-sequence) |
 | [0202-happy-number](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0268-missing-number) |
@@ -95,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0014-longest-common-prefix) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
