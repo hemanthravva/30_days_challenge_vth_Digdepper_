@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0058-length-of-last-word) |
