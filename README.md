@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0577-employee-bonus](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0577-employee-bonus) |
 | [1153-product-sales-analysis-i](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/1153-product-sales-analysis-i) |
 | [1258-article-views-i](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/1258-article-views-i) |
+| [1415-students-and-examinations](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/1415-students-and-examinations) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1801-average-time-of-process-per-machine](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/1801-average-time-of-process-per-machine) |
 | [1827-invalid-tweets](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/1827-invalid-tweets) |
