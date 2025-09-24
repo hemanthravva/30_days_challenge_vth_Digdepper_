@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0013-roman-to-integer) |
+| [0070-climbing-stairs](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/1013-fibonacci-number) |
@@ -152,9 +153,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
