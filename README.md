@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0136-single-number) |
+| [0152-maximum-product-subarray](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0217-contains-duplicate) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0070-climbing-stairs) |
+| [0152-maximum-product-subarray](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0152-maximum-product-subarray) |
 | [1013-fibonacci-number](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
