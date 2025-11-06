@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0496-next-greater-element-i) |
+| [0724-find-pivot-index](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0724-find-pivot-index) |
 | [0907-koko-eating-bananas](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0907-koko-eating-bananas) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2058-concatenation-of-array](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/2058-concatenation-of-array) |
@@ -220,4 +221,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0209-minimum-size-subarray-sum) |
+| [0724-find-pivot-index](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
