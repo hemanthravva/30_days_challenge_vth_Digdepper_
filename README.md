@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0179-largest-number) |
+| [0209-minimum-size-subarray-sum](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0283-move-zeroes) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0907-koko-eating-bananas](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0907-koko-eating-bananas) |
@@ -212,5 +214,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0209-minimum-size-subarray-sum) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
