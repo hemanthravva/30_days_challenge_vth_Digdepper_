@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0907-koko-eating-bananas) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2058-concatenation-of-array](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/2058-concatenation-of-array) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0496-next-greater-element-i) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Math
 |  |
 | ------- |
@@ -204,4 +206,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Sliding Window
+|  |
+| ------- |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 <!---LeetCode Topics End-->
