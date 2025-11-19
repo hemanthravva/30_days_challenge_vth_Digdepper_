@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0724-find-pivot-index) |
 | [0907-koko-eating-bananas](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0907-koko-eating-bananas) |
+| [0954-maximum-sum-circular-subarray](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0954-maximum-sum-circular-subarray) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2058-concatenation-of-array](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/2058-concatenation-of-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0387-first-unique-character-in-a-string) |
+| [0954-maximum-sum-circular-subarray](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0954-maximum-sum-circular-subarray) |
 ## Counting
 |  |
 | ------- |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0053-maximum-subarray) |
 | [0191-number-of-1-bits](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0191-number-of-1-bits) |
+| [0954-maximum-sum-circular-subarray](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0954-maximum-sum-circular-subarray) |
 ## Trie
 |  |
 | ------- |
@@ -205,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0152-maximum-product-subarray) |
+| [0954-maximum-sum-circular-subarray](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0954-maximum-sum-circular-subarray) |
 | [1013-fibonacci-number](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -237,4 +241,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0724-find-pivot-index) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0954-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
