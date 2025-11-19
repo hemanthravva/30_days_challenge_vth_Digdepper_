@@ -1,40 +1,43 @@
 class Solution {
     public int maxSubarraySumCircular(int[] nums) {
-        int max_sub_array=max_subarray(nums);
+        int maxsubarr=max_sub_array(nums);
 
         int totalsum=0;
-        for(int i =0;i<nums.length;i++){
+        for(int i=0;i<nums.length;i++){
             totalsum+=nums[i];
         }
 
-        int neg[]=new int[nums.length];
+
+        int neg[]=new int [nums.length];
+
         for(int i=0;i<nums.length;i++){
-            neg[i]=-nums[i];
+            neg[i]=- nums[i];
         }
 
-        int max_sub_array_on_neg=max_subarray(neg);
-        int minsubarray=-max_sub_array_on_neg;
+        int max_sub_neg=max_sub_array(neg);
+
+        int min_sub_arr=-max_sub_neg;
+
+        if( min_sub_arr == totalsum)return  maxsubarr;
 
 
-        if(minsubarray == totalsum){
-            return max_sub_array;
-        }
+        int max_circular=totalsum-min_sub_arr;
 
-        int max_circular=totalsum -minsubarray;
-
-        return Math.max(max_circular,max_sub_array);
-
+        return Math.max(max_circular,maxsubarr);
+         
     }
 
-    public static int max_subarray(int [] nums){
-        int maxcurrent=nums[0];
-        int maxGlobal=nums[0];
+    public static int max_sub_array(int nums[]){
+         int maxcurrent=nums[0];
+         int max_global=nums[0];
+         
 
-        for(int i=1;i<nums.length;i++){
-            maxcurrent=Math.max(nums[i],maxcurrent + nums[i]);
-            maxGlobal=Math.max(maxcurrent,maxGlobal);
-        }
+         for(int i=1;i<nums.length;i++){
+            maxcurrent=Math.max(nums[i],maxcurrent+nums[i]);
+            max_global=Math.max(maxcurrent,max_global);
+         }
 
-        return maxGlobal;
+         return max_global;
+
     }
 }
