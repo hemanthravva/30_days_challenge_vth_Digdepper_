@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0724-find-pivot-index) |
 | [0907-koko-eating-bananas](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0907-koko-eating-bananas) |
 | [0954-maximum-sum-circular-subarray](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0954-maximum-sum-circular-subarray) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0704-binary-search](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0704-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0907-koko-eating-bananas) |
 ## Bit Manipulation
 |  |
