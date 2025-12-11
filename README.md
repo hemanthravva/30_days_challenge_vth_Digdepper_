@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0128-longest-consecutive-sequence) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0054-spiral-matrix) |
 | [2058-concatenation-of-array](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/2058-concatenation-of-array) |
 ## Two Pointers
 |  |
@@ -247,4 +249,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0954-maximum-sum-circular-subarray](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0954-maximum-sum-circular-subarray) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
