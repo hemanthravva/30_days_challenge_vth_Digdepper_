@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0905-sort-array-by-parity) |
 | [0907-koko-eating-bananas](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0907-koko-eating-bananas) |
 | [0954-maximum-sum-circular-subarray](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0954-maximum-sum-circular-subarray) |
+| [1122-relative-sort-array](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/1122-relative-sort-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2058-concatenation-of-array](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/2058-concatenation-of-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0560-subarray-sum-equals-k) |
 | [0771-jewels-and-stones](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0771-jewels-and-stones) |
+| [1122-relative-sort-array](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/1122-relative-sort-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Math
 |  |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0905-sort-array-by-parity](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0905-sort-array-by-parity) |
+| [1122-relative-sort-array](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/1122-relative-sort-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -266,4 +269,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0054-spiral-matrix) |
+## Counting Sort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->
