@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0494-target-sum](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0560-subarray-sum-equals-k) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0152-maximum-product-subarray) |
+| [0494-target-sum](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0494-target-sum) |
 | [0954-maximum-sum-circular-subarray](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0954-maximum-sum-circular-subarray) |
 | [1013-fibonacci-number](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/1013-fibonacci-number) |
 ## Memoization
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0046-permutations) |
+| [0494-target-sum](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0494-target-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Combinatorics
 |  |
