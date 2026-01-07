@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0724-find-pivot-index) |
+| [0860-lemonade-change](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0860-lemonade-change) |
 | [0905-sort-array-by-parity](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0905-sort-array-by-parity) |
 | [0907-koko-eating-bananas](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0907-koko-eating-bananas) |
 | [0922-sort-array-by-parity-ii](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0922-sort-array-by-parity-ii) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0179-largest-number) |
+| [0860-lemonade-change](https://github.com/hemanthravva/30_days_challenge_vth_Digdepper_/tree/master/0860-lemonade-change) |
 ## Stack
 |  |
 | ------- |
